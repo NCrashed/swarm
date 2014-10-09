@@ -1,0 +1,11 @@
+{
+	"name": "swarm",
+	"description": "Experimental rest-api server for ComputerCraft",
+	"copyright": "Copyright © 2014, ncrashed",
+	"authors": ["ncrashed"],
+	"license": "MIT",
+	"versions": ["VibeCustomMain"],
+	"dependencies": {
+		"vibe-d": "~>0.7.21"
+	}
+}
