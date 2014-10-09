@@ -1,0 +1,7 @@
+doctype html
+html
+    head
+        title Example page
+    body
+        h1 Example page - Home
+        p Hello, World!
